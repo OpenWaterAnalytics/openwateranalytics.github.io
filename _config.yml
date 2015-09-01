@@ -1,0 +1,16 @@
+# Site settings
+title: Open Water Analytics
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Open Water Analytics is an open community for the exchange 
+  of information and ideas related to computing in the water 
+  & wastewater industries.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://openwateranalytics.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+permalink: pretty
+
+# Build settings
+markdown: kramdown
