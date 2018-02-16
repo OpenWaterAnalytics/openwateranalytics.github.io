@@ -7,3 +7,4 @@ Open Water Analytics is the home of the community projects for EPANET and SWMM, 
 - Visit the [Forums](http://community.wateranalytics.org) to connect with others, find answers, and share ideas.
 - See the [Software Projects](https://github.com/OpenWaterAnalytics) related to scientific computing in water-related fields.
 - Check out the [Open Source EPANET Documentation](http://www.wateranalytics.org/EPANET/) and [Code Repository](https://github.com/OpenWaterAnalytics/EPANET) for the latest developments on this exciting project.
+- Check out the [Open Source SWMM Documentation](http://wateranalytics.org/Stormwater-Management-Model/) and [Code Repository](https://github.com/OpenWaterAnalytics/Stormwater-Management-Model) for the latest developments on this project.
